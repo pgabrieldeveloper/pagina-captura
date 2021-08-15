@@ -23,7 +23,36 @@ header{
     font-size: 26px;
 }
 
+.formContainer{
+    max-width: 230px;
+    background-color: #FFFFFFBB;
+    padding: 20px;
+    float: right;
+}
+h2{
+    font-size: 16px;
+}
+
+.mb {
+    margin-bottom: 15px;
+}
+
+input, select {
+    width: 100%;
+    margin-bottom: 10px;
+    border: none;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+input[type='submit']{
+    background-color: rgb(221, 185, 255);
+
+
+}
 
 section{
-    color: white;
+    background-image: url('../images/people.jpg');
+    overflow: hidden;
+    background-size: cover;
 }
