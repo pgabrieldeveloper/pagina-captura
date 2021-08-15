@@ -47,6 +47,7 @@ input, select {
 
 input[type='submit']{
     background-color: rgb(221, 185, 255);
+    color: white;
 
 
 }
