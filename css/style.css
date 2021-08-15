@@ -56,3 +56,25 @@ section{
     overflow: hidden;
     background-size: cover;
 }
+
+footer {
+    background-color: #4b4b4b;
+    text-align: center;
+    padding: 20px;
+}
+
+.picture {
+    max-width: 160px;
+}
+
+.description {
+    display: inline-block;
+    max-width: 40%;
+}
+
+.description p, .description h3{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+    color: white;
+}
